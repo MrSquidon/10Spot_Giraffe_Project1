@@ -1,0 +1,77 @@
+Asset List
+
+Hallways
+
+-concrete walls
+-tile floors with edge on the wall
+-doors/signs
+-grime, blood, flesh, etc...
+-vents
+-cieling lights, dim and/or broken
+
+Locker Room
+
+-locker base
+-locker doors
+-locks
+-sneakers
+-gym bags
+-swimsuits
+-towels
+-mirror
+-trashcan
+-benches
+-goggles
+-swim caps
+-giraffe keychain
+-pool buoys
+-tile floor
+-simple walls
+-vents
+-drain
+-locker and bathroom doors with glass panes
+
+Showers
+
+-tile floor
+-drains
+-pipes (cieling to floor)
+-shower heads
+-water (flowing and stagnant)
+-hole in the wall
+-tile walls
+-shampoo bottles
+-dirt and grime
+-broken pipes
+-blood
+-flesh
+
+Maintenance Access
+
+-maintenance door
+-maintenance sign
+-box
+-shelf
+-flesh blob
+
+Pool
+
+-double doors with glass panes
+-pool
+-benches
+-ladder in pool
+-starting blocks
+-lane lines
+-fleshyness
+
+Flesh
+
+-hearts
+-intestines
+-arms/hands
+-skinned guy
+-ao no exorcist miasma-type flesh
+-droopy stalactite flesh
+-blob near maintenance
+-round hall flesh
+-hallway barrier flesh
