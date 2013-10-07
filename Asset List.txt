@@ -11,16 +11,16 @@ Hallways
 
 Locker Room
 
--locker base
--locker doors
--locks
+-locker base (Amelia)
+-locker doors (Amelia)
+-locks (Amelia)
 -sneakers
 -gym bags
 -swimsuits
 -towels
 -mirror
 -trashcan
--benches
+-benches (Amelia)
 -goggles
 -swim caps
 -giraffe keychain
