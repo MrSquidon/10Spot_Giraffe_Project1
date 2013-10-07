@@ -1,6 +1,6 @@
 //Maya ASCII 2013 scene
 //Name: Hallway GreyBox.ma
-//Last modified: Wed, Oct 02, 2013 01:08:23 PM
+//Last modified: Wed, Oct 02, 2013 01:10:13 PM
 //Codeset: 1252
 requires maya "2013";
 requires "Mayatomr" "2013.0 - 3.10.1.4 ";
