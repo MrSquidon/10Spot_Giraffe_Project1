@@ -59,7 +59,7 @@ Pool
 -double doors with glass panes [X]
 -pool[X] (Angelo)
 -benches [X] (Amelia)
--ladder in pool [] (Angelo)
+-ladder in pool [X] (Angelo)
 -starting blocks [] (Angelo)
 -lane lines [X] (Angelo)
 -fleshyness []
