@@ -14,17 +14,17 @@ Locker Room
 -locker base [X] (Amelia)
 -locker doors [X] (Amelia)
 -locks [X] (Amelia)
--sneakers []
--gym bags []
+-sneakers [] (Olivia)
+-gym bags [] (Tommi - Olivia)
 -swimsuits []
 -towels []
 -mirror []
--trashcan []
+-trashcan [] (Amelia)
 -benches [X] (Amelia)
--goggles []
+-goggles [] (Amelia + Olivia)
 -swim caps []
 -giraffe keychain [] (Olivia)
--pool buoys []
+-pool buoys [X] (Amelia)
 -tile floor []
 -simple walls []
 -vents [X] (Amelia)
@@ -36,11 +36,11 @@ Showers
 -tile floor []
 -drains [X] (Olivia)
 -pipes (cieling to floor) [] (Agustine)
--shower heads [] (Amelia)
+-shower heads [X] (Amelia)
 -water (flowing and stagnant) []
 -hole in the wall []
 -tile walls []
--shampoo bottles [] (Amelia) 
+-shampoo bottles [X] (Amelia) 
 -dirt and grime []
 -broken pipes []
 -blood []
