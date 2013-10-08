@@ -6,7 +6,7 @@ Hallways
 -tile floors with edge on the wall []
 -doors/signs []
 -grime, blood, flesh, etc...[] 
--vents [X] (Amelia) 
+-vents [] (Amelia) 
 -cieling lights, dim and/or broken [] (Olivia)
 
 Locker Room
@@ -27,9 +27,9 @@ Locker Room
 -pool buoys []
 -tile floor []
 -simple walls []
--vents [X] (Amelia)
+-vents [] (Amelia)
 -drain [X] (Olivia)
--lockerroom and bathroom doors with glass panes []
+-locker and bathroom doors with glass panes []
 
 Showers
 
@@ -52,26 +52,26 @@ Maintenance Access
 -maintenance sign []
 -box []
 -shelf (Amelia) []
--flesh blob [X]
+-flesh blob []
 
 Pool
 
--double doors with glass panes [X]
--pool[X] (Angelo)
+-double doors with glass panes []
+-pool[]
 -benches [X] (Amelia)
--ladder in pool [X] (Angelo)
+-ladder in pool [] (Angelo)
 -starting blocks [] (Angelo)
--lane lines [X] (Angelo)
+-lane lines []
 -fleshyness []
 
 Flesh
 
--hearts [X] (Angelo)
+-hearts [] (Angelo)
 -intestines []
 -arms/hands [] (Olivia)
--skinned guy [] (Olivia)
--ao no exorcist miasma-type flesh [X]
--droopy stalactite flesh [X] (Tommi) 
--blob near maintenance [X] (Tommi) 
+-skinned guy []
+-ao no exorcist miasma-type flesh []
+-droopy stalactite flesh [] (Tommi) 
+-blob near maintenance [] (Tommi) 
 -round hall flesh [] (Tommi)
 -hallway barrier flesh [] (Tommi)
