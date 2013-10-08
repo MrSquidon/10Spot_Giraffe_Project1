@@ -2,76 +2,76 @@ Asset List
 
 Hallways
 
--concrete walls
--tile floors with edge on the wall
--doors/signs
--grime, blood, flesh, etc...
--vents
--cieling lights, dim and/or broken
+-concrete walls []
+-tile floors with edge on the wall []
+-doors/signs []
+-grime, blood, flesh, etc...[] 
+-vents [] (Amelia) 
+-cieling lights, dim and/or broken [] (Olivia)
 
 Locker Room
 
--locker base
--locker doors
--locks
--sneakers
--gym bags
--swimsuits
--towels
--mirror
--trashcan
--benches
--goggles
--swim caps
--giraffe keychain
--pool buoys
--tile floor
--simple walls
--vents
--drain
--locker and bathroom doors with glass panes
+-locker base [X] (Amelia)
+-locker doors [X] (Amelia)
+-locks [X] (Amelia)
+-sneakers []
+-gym bags []
+-swimsuits []
+-towels []
+-mirror []
+-trashcan []
+-benches [X] (Amelia)
+-goggles []
+-swim caps []
+-giraffe keychain [] (Olivia)
+-pool buoys []
+-tile floor []
+-simple walls []
+-vents [] (Amelia)
+-drain [X] (Olivia)
+-locker and bathroom doors with glass panes []
 
 Showers
 
--tile floor
--drains
--pipes (cieling to floor)
--shower heads
--water (flowing and stagnant)
--hole in the wall
--tile walls
--shampoo bottles
--dirt and grime
--broken pipes
--blood
--flesh
+-tile floor []
+-drains [X] (Olivia)
+-pipes (cieling to floor) [] (Agustine)
+-shower heads [] (Amelia)
+-water (flowing and stagnant) []
+-hole in the wall []
+-tile walls []
+-shampoo bottles [] (Amelia) 
+-dirt and grime []
+-broken pipes []
+-blood []
+-flesh []
 
 Maintenance Access
 
--maintenance door
--maintenance sign
--box
--shelf
--flesh blob
+-maintenance door []
+-maintenance sign []
+-box []
+-shelf (Amelia) []
+-flesh blob []
 
 Pool
 
--double doors with glass panes
--pool
--benches
--ladder in pool
--starting blocks
--lane lines
--fleshyness
+-double doors with glass panes []
+-pool[]
+-benches [X] (Amelia)
+-ladder in pool [] (Angelo)
+-starting blocks [] (Angelo)
+-lane lines []
+-fleshyness []
 
 Flesh
 
--hearts
--intestines
--arms/hands
--skinned guy
--ao no exorcist miasma-type flesh
--droopy stalactite flesh
--blob near maintenance
--round hall flesh
--hallway barrier flesh
+-hearts [] (Angelo)
+-intestines []
+-arms/hands [] (Olivia)
+-skinned guy []
+-ao no exorcist miasma-type flesh []
+-droopy stalactite flesh [] (Tommi) 
+-blob near maintenance [] (Tommi) 
+-round hall flesh [] (Tommi)
+-hallway barrier flesh [] (Tommi)
