@@ -37,13 +37,13 @@ Showers
 -drains [X] (Olivia)
 -pipes (cieling to floor) [] (Agustine)
 -shower heads [X] (Amelia)
--water (flowing and stagnant) []
+-water (flowing and stagnant) [] (Angelo)
 -hole in the wall []
 -tile walls []
 -shampoo bottles [X] (Amelia) 
 -dirt and grime []
 -broken pipes []
--blood []
+-blood [] (Angelo)
 -flesh []
 
 Maintenance Access
@@ -52,7 +52,7 @@ Maintenance Access
 -maintenance sign []
 -box []
 -shelf (Amelia) []
--flesh blob [X]
+-flesh blob [X] (Tommi)
 
 Pool
 
