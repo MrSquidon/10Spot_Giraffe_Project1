@@ -18,10 +18,10 @@ Locker Room
 -gym bags [] (Tommi - Olivia)
 -swimsuits []
 -towels []
--mirror []
+-mirror [X]
 -trashcan [X] (Amelia)
 -benches [X] (Amelia)
--goggles [] (Amelia + Olivia)
+-goggles [X] (Amelia + Olivia)
 -swim caps []
 -giraffe keychain [] (Olivia)
 -pool buoys [X] (Amelia)
@@ -60,7 +60,7 @@ Pool
 -pool[X] (Angelo)
 -benches [X] (Amelia)
 -ladder in pool [X] (Angelo)
--starting blocks [] (Angelo)
+-starting blocks [X] (Amelia)
 -lane lines [X] (Angelo)
 -fleshyness []
 
